@@ -1,11 +1,11 @@
 # 🎰 1Stake Online Casino Platform
 Turnkey iGaming software solution that enables operators to launch new online casino brands quickly, cost-effectively and at scale.
 
-> [LIVE DEMO](https://demo.1stake.app)
-> • [WEBSITE](https://1stake.app)
+> [LIVE DEMO](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
+> • [OFFICIAL WEBSITE](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
 > • [CONTACT US](https://1stake.atlassian.net/servicedesk)
 
-[![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app)
+[![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
 ---
 
 ## 🚀 How To Start Your Online Casino Business?
@@ -99,28 +99,28 @@ The following **online casino games** were developed in-house and fully integrat
 - Plinko
 - Sic Bo
 
-> 👉 Sign up at the [1Stake Online Casino Software Demo](https://demo.1stake.app) to try them out!
+> 👉 Sign up at the [1Stake Online Casino Software Demo](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme) to try them out!
 ---
 
 ## 🪙 Cryptocurrency Price Predictions
 In addition to traditional casino games listed above, we provide a unique **crypto price prediction game** where players can bet on future price movements of various cryptocurrencies.  
 This option functions like **binary options trading** in financial markets.
-> 👉 Try to [predict crypto prices](https://demo.1stake.app/markets/crypto-prediction).
+> 👉 Try to [predict crypto prices](https://demo.1stake.app/markets/crypto-prediction?utm_source=github&utm_medium=referral&utm_campaign=readme).
 ---
 
 ## 🎫 Raffles / Lotteries
 Our online casino platform supports raffles / lotteries where players purchase tickets for a chance to win cash prizes.  
 When creating a raffle, the operator can define the ticket price, total ticket count, house fee, end condition (time-based or ticket-based) and other parameters.
-> 👉 Check out the [current raffles](https://demo.1stake.app/raffles) on the [1Stake iGaming Platform Demo](https://demo.1stake.app).
+> 👉 Check out the [current raffles](https://demo.1stake.app/raffles?utm_source=github&utm_medium=referral&utm_campaign=readme) on the [1Stake iGaming Platform Demo](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme).
 ---
 
 ## 🎮 Third-Party Game Integrations
 The platform supports integration with various third-party game providers via a single unified interface, enabling you to quickly add new games to your casino offering.
-> 👉 View the [supported game providers](https://demo.1stake.app/providers).
+> 👉 View the [supported game providers](https://demo.1stake.app/providers?utm_source=github&utm_medium=referral&utm_campaign=readme).
 
 ## 💳 Payments & Currencies
 The platform includes integration with multiple payment gateways for both **fiat and cryptocurrency transactions**.
-> 👉 View the full list of [supported deposit and withdrawal methods](https://1stake.app/products/payments).
+> 👉 View the full list of [supported deposit and withdrawal methods](https://1stake.app/products/payments?utm_source=github&utm_medium=referral&utm_campaign=readme).
 ---
 
 ## ✅ Why Choose the 1Stake Turnkey Casino Solution?
@@ -135,4 +135,4 @@ The platform includes integration with multiple payment gateways for both **fiat
 > 🚀 Launch faster. Scale smarter. Grow bigger.
 ---
 
-Created and supported with ❤️ by the [1Stake Casino Software Development Team](https://1stake.app)  
+Created and supported with ❤️ by the [1Stake Casino Software Development Team](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)  

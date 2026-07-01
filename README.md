@@ -13,7 +13,7 @@ Turnkey iGaming software solution that enables operators to launch new online ca
 Most **online casino software providers** charge tens of thousands of dollars for their solutions.  
 This often makes a **full-featured iGaming platform** unaffordable for smaller operators.  
 We offer a **cost-effective casino solution** built for rapid deployment, enabling you to launch your iGaming brand swiftly with minimal upfront investment.  
-Our modular, **self-hosted casino platform** includes a wide range of games (both in-house and third-party), 
+Our modular, **self-hosted casino platform** includes a wide range of games (both in-house and third-party),
 fiat & crypto payment gateway integrations, and built-in marketing tools to help you grow your player base.
 This is more than just an **online casino script** — it’s a complete iGaming platform that gives operators full control over every aspect of their **online gaming website**.
 
@@ -116,11 +116,11 @@ When creating a raffle, the operator can define the ticket price, total ticket c
 
 ## 🎮 Third-Party Game Integrations
 The platform supports integration with various third-party game providers via a single unified interface, enabling you to quickly add new games to your casino offering.
-> 👉 View the [supported game providers](https://demo.1stake.app/providers?utm_source=github&utm_medium=referral&utm_campaign=readme).
+> 👉 View the [supported game providers](https://1stake.app/products/casino-platform/game-providers?utm_source=github&utm_medium=referral&utm_campaign=readme).
 
 ## 💳 Payments & Currencies
 The platform includes integration with multiple payment gateways for both **fiat and cryptocurrency transactions**.
-> 👉 View the full list of [supported deposit and withdrawal methods](https://1stake.app/products/payments?utm_source=github&utm_medium=referral&utm_campaign=readme).
+> 👉 View the full list of [supported deposit and withdrawal methods](https://1stake.app/products/casino-platform/payments?utm_source=github&utm_medium=referral&utm_campaign=readme).
 ---
 
 ## ✅ Why Choose the 1Stake Turnkey Casino Solution?

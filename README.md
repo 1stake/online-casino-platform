@@ -3,7 +3,7 @@ Turnkey iGaming software solution that enables operators to launch new online ca
 
 > [LIVE DEMO](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
 > • [OFFICIAL WEBSITE](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
-> • [CONTACT US](https://support.1stake.app)
+> • [CONTACT US](https://1stake.app/contact-us?utm_source=github&utm_medium=referral&utm_campaign=readme)
 
 [![1Stake Online Casino Platform](https://raw.githubusercontent.com/1stake/assets/refs/heads/main/1stake-igaming-casino-platform-browser.webp)](https://demo.1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=readme)
 ---
